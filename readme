@@ -4,8 +4,7 @@ This project simulates a basic chat application using JavaScript. The applicatio
 Project Type
 Backend (using Node.js for scripting)
 Directory Structure
-go
-Copy code
+
 chat-application/
 |--Test.js
 ├── chat.js
@@ -13,17 +12,14 @@ chat-application/
 Setup
 Environment Setup
 Create Project Directory:
-bash
-Copy code
+
 mkdir chat-application
 cd chat-application
 Initialize Node.js Project (if needed):
-bash
-Copy code
+
 npm init -y
 Create JavaScript File:
-bash
-Copy code
+
 touch chat.js
 Script Overview
 ChatApp Class
@@ -50,8 +46,7 @@ The code is commented to explain each part of the implementation, including the 
 Installation & Getting Started
 To run the script, simply use Node.js:
 
-bash
-Copy code
+
 # Navigate to the project directory
 cd chat-application
 
@@ -60,8 +55,7 @@ node chat.js
 Usage
 The chat.js file contains examples demonstrating the use of ChatApp methods:
 
-javascript
-Copy code
+
 const chatApp = new ChatApp();
 
 // Register users
