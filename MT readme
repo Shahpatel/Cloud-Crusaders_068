@@ -1,0 +1,52 @@
+Introduction
+This project focuses on testing the Product Display Page of the TutorialsNinja demo e-commerce website, built on the OpenCart platform. The purpose of this project is to evaluate the functionality and usability of the product display features, ensuring that users can effectively browse and interact with product information.
+
+Project Type
+Testing
+
+Tested Application
+URL: https://tutorialsninja.com/demo/
+
+Directory Structure
+testing-project/ ├─ test-plans/ ├─ test-cases/ ├─ defect-reports/ ├─ screenshots/ └─ videos/
+
+Video Walkthrough of the Testing Process
+[Attach a video walkthrough of your testing process here, showcasing key scenarios and test cases.]
+
+Features Tested
+The key features tested in this project include:
+
+Navigation Links: Verified that all links on the homepage navigate to the correct pages.
+Search Functionality: Tested the product search with different keywords and verified accurate results.
+Product Information: Checked the accuracy and completeness of product information displayed.
+Usability: Evaluated the ease of navigation and clarity of information on the Product Display Page.
+Design Decisions or Assumptions
+Assumed that the site would be used by a general audience, so the focus was on user-friendly navigation and information accessibility.
+Testing was done on multiple devices and browsers to ensure cross-platform compatibility.
+Installation & Getting Started
+As this is a testing project, no installation is required. However, to replicate the testing environment:
+
+Clone the project repository.
+Access the test cases and test plan documents in the respective directories.
+Execute the test cases using any test management tool or manually follow the steps outlined in the test cases.
+Usage
+To review the testing process:
+
+Open the test plan document to understand the testing approach.
+Access the test cases to see the specific scenarios that were tested.
+Review the defect reports to see any issues identified during testing, along with their severity.
+Include screenshots and video recordings from the screenshots and videos directories as necessary.
+
+Credentials
+No authentication was required for the tested pages.
+
+APIs Used
+No external APIs were utilized during the testing process.
+
+Technology Stack
+The project primarily involved manual testing techniques, supported by:
+
+OpenCart: The e-commerce platform used for the demo website.
+Browser Developer Tools: For inspecting elements and debugging issues.
+Screen Recording Tools: Used for capturing testing sessions.
+This README file provides a comprehensive overview of your testing project, including the scope, features tested, and instructions for usage.
